@@ -16,3 +16,7 @@ console.log("hello world");
 // 2. git add .(to add in staging server)
 // 3. git commit -m "message"(to add in local server)
 // 4. git push(to add in remote server)
+
+// 1. git rm app1.js
+// 2. git commit -m "message"(to add in local server)
+// 3. git push(to add in remote server)
