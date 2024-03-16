@@ -11,3 +11,8 @@ console.log("hello world");
 // if you want to push your code to remote server 
 // for first time
 // git push -u origin <branchname(main)>
+
+// 1. rm -rf test.txt
+// 2. git add .(to add in staging server)
+// 3. git commit -m "message"(to add in local server)
+// 4. git push(to add in remote server)
